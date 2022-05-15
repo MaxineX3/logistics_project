@@ -1,0 +1,21 @@
+Use Case: done
+ERD: done
+mô tả: not yet (gồm functional requirements và non-functional requirements)
+giả định - giới hạn - phạm vi của hệ thống: not yet (scope)
+yêu cầu của người dùng với hệ thống: not yet / Nhi
+xác định actor: probably? / Nhi
+đặc tả: not yet / Nhi
+làm file word: not yet / Nhi
+Sequence diagram: xong phần vẽ, chưa giải thích
+Activity diagram: not yet
+giao diện wireframe: not yet
+ảnh chụp: (probably) done
+kết luận ưu - nhược điểm: not yet / Ly
+tài liệu tham khảo: not yet(?) 
+Nhi: yêu cầu của người dùng với hệ thống
+     xác định actor
+     đặc tả
+     làm file word (Phi phụ)
+Ly: kết luận ưu nhược điểm 
+    yêu cầu của người dùng với hệ thống
+    mô tả

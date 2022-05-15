@@ -1,0 +1,24 @@
+phân công công việc:
+Use Case + ERD Diagram: Phi - Nhi - Ly cùng làm
+-------------------------------------
+Sequence Diagram:
+Nhi: + nhập mã đơn hàng
++ trả hàng cho khách
++ từ chối nhận đơn hàng
++ xác nhận Từ chối trả hàng
+Ly: + Nhận hàng hóa từ công ty
++ Phân loại hàng hóa
++ Kiểm tra hàng hóa
++ Nhập thông tin đơn hàng
+Phi: Đăng ký - đăng nhập
+----------------------------------
+Activity Diagram: 
+Nhi: + Kiểm tra trạng thái đơn hàng
++ Báo giá
++ Nhận hàng
++ Trả tiền mặt
+Ly: + Hủy đơn hàng
++ Cập nhật trạng thái đơn hàng (phía nhân viên)
++ Xác nhận Nhận đơn
++ Thông báo cho KH rằng đơn hàng bị hủy
+Phi: Điều chỉnh phương thức giao hàng - Cập nhật trạng thái giao hàng (phía giao hàng) - Thông báo mã ĐH cho BPGH
